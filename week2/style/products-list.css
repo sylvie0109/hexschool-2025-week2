@@ -1,0 +1,21 @@
+
+.menu .active{
+    color: var(--primary-400);
+}
+.menu .active:hover{
+    color: var(--primary-500);
+}
+.page-item .btn{
+    border-radius: 0;
+    padding: 8px 15px; 
+    font-weight: 400;
+}
+.page-item .btn:hover{
+    border-radius: 0;
+    padding: 8px 15px; 
+    font-weight: 600;
+}
+.page-item .active{
+    font-weight: 500;
+    background: var(--primary-300);
+}
